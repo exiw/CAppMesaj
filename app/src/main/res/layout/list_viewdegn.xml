@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_margin="10dp"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/ntf_News"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textColor="#FFC107"
+        android:textSize="25dp"
+        android:textStyle="bold" />
+
+
+    <TextView
+        android:id="@+id/ntf_sender_user_type"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:id="@+id/ntf_title"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:layout_height="match_parent"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:id="@+id/ntf_content"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:layout_height="match_parent"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:id="@+id/ntf_send_datetime"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:layout_height="match_parent"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:id="@+id/ntf_read_datetime"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:layout_height="match_parent"/>
+
+</LinearLayout>

@@ -1,0 +1,325 @@
+{
+    "notifications": [
+        {
+            "ntf_id": "167",
+            "sender_user_type": "Prof. Dr. Burak DURMAZ",
+            "ntf_title": "Çok uzun başıklı yeni bir bildirim gönderiyorum. bu bildirim de umarım uzun olur",
+            "ntf_content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+            "ntf_send_datetime": "2023-01-31 18:16:25",
+            "ntfd_read_datetime": "2023-02-01 22:30:26"
+        },
+        {
+            "ntf_id": "166",
+            "sender_user_type": "Prof. Dr. Burak DURMAZ",
+            "ntf_title": "Deneme 1",
+            "ntf_content": "Test 1",
+            "ntf_send_datetime": "2023-01-31 17:43:44",
+            "ntfd_read_datetime": "2023-01-31 17:45:10"
+        },
+        {
+            "ntf_id": "165",
+            "sender_user_type": "Prof. Dr. Burak DURMAZ",
+            "ntf_title": "Deneme Postman",
+            "ntf_content": "Test",
+            "ntf_send_datetime": "2023-01-31 16:02:37",
+            "ntfd_read_datetime": "2023-02-01 22:30:30"
+        },
+        {
+            "ntf_id": "164",
+            "sender_user_type": "Prof. Dr. Burak DURMAZ",
+            "ntf_title": "Deneme",
+            "ntf_content": "Test",
+            "ntf_send_datetime": "2023-01-31 16:01:02",
+            "ntfd_read_datetime": "2023-02-01 22:31:46"
+        },
+        {
+            "ntf_id": "159",
+            "sender_user_type": "SYSTEM_ADMIN",
+            "ntf_title": "Ceviz Demo Bildirim Zafer'in cihazına",
+            "ntf_content": "Ceviz Demo Bildirim Zafer'in cihazına özel",
+            "ntf_send_datetime": "2023-01-31 14:59:45",
+            "ntfd_read_datetime": "2023-02-01 22:32:47"
+        },
+        {
+            "ntf_id": "158",
+            "sender_user_type": "SYSTEM_ADMIN",
+            "ntf_title": "E yoklama deneme 22",
+            "ntf_content": "E yoklamaya hoş geldiniz",
+            "ntf_send_datetime": "2023-01-31 14:33:02",
+            "ntfd_read_datetime": "2023-02-01 22:32:57"
+        },
+        {
+            "ntf_id": "157",
+            "sender_user_type": "Prof. Dr. Burak DURMAZ",
+            "ntf_title": "Saat Değişikliği",
+            "ntf_content": "Fizik dersi 13:00 dan 15:00' alınmıştır.",
+            "ntf_send_datetime": "2023-01-31 11:42:32",
+            "ntfd_read_datetime": "2023-01-31 11:45:09"
+        },
+        {
+            "ntf_id": "156",
+            "sender_user_type": "Prof. Dr. Burak DURMAZ",
+            "ntf_title": "sdfsd",
+            "ntf_content": "fsdf",
+            "ntf_send_datetime": "2023-01-31 10:53:49",
+            "ntfd_read_datetime": "2023-02-01 22:33:02"
+        },
+        {
+            "ntf_id": "120",
+            "sender_user_type": "Prof. Dr. Burak DURMAZ",
+            "ntf_title": "Deneme 1",
+            "ntf_content": "Test 1",
+            "ntf_send_datetime": "2023-01-30 17:18:25",
+            "ntfd_read_datetime": "2023-01-31 18:05:24"
+        },
+        {
+            "ntf_id": "119",
+            "sender_user_type": "Prof. Dr. Burak DURMAZ",
+            "ntf_title": "Deneme",
+            "ntf_content": "Test",
+            "ntf_send_datetime": "2023-01-30 17:18:00",
+            "ntfd_read_datetime": "2023-01-31 17:46:08"
+        },
+        {
+            "ntf_id": "118",
+            "sender_user_type": "Prof. Dr. Burak DURMAZ",
+            "ntf_title": "Deneme",
+            "ntf_content": "Test",
+            "ntf_send_datetime": "2023-01-30 17:16:06",
+            "ntfd_read_datetime": "2023-02-01 22:42:00"
+        },
+        {
+            "ntf_id": "117",
+            "sender_user_type": "Prof. Dr. Burak DURMAZ",
+            "ntf_title": "Deneme",
+            "ntf_content": "Test",
+            "ntf_send_datetime": "2023-01-30 17:15:19",
+            "ntfd_read_datetime": "2023-02-01 22:56:05"
+        },
+        {
+            "ntf_id": "116",
+            "sender_user_type": "Prof. Dr. Burak DURMAZ",
+            "ntf_title": "Deneme",
+            "ntf_content": "Test",
+            "ntf_send_datetime": "2023-01-30 17:13:27",
+            "ntfd_read_datetime": "2023-02-01 22:56:38"
+        },
+        {
+            "ntf_id": "115",
+            "sender_user_type": "Prof. Dr. Burak DURMAZ",
+            "ntf_title": "Deneme",
+            "ntf_content": "Test",
+            "ntf_send_datetime": "2023-01-30 17:11:05",
+            "ntfd_read_datetime": "2023-01-31 17:46:12"
+        },
+        {
+            "ntf_id": "114",
+            "sender_user_type": "Prof. Dr. Burak DURMAZ",
+            "ntf_title": "Deneme",
+            "ntf_content": "Test",
+            "ntf_send_datetime": "2023-01-30 17:09:43",
+            "ntfd_read_datetime": "2023-02-01 22:56:44"
+        },
+        {
+            "ntf_id": "113",
+            "sender_user_type": "Prof. Dr. Burak DURMAZ",
+            "ntf_title": "Deneme",
+            "ntf_content": "Test",
+            "ntf_send_datetime": "2023-01-30 17:08:12",
+            "ntfd_read_datetime": "2023-02-01 22:56:46"
+        },
+        {
+            "ntf_id": "112",
+            "sender_user_type": "Prof. Dr. Burak DURMAZ",
+            "ntf_title": "Deneme",
+            "ntf_content": "Test",
+            "ntf_send_datetime": "2023-01-30 17:07:42",
+            "ntfd_read_datetime": "2023-02-01 22:56:48"
+        },
+        {
+            "ntf_id": "111",
+            "sender_user_type": "Prof. Dr. Burak DURMAZ",
+            "ntf_title": "Deneme",
+            "ntf_content": "Test",
+            "ntf_send_datetime": "2023-01-30 17:06:26",
+            "ntfd_read_datetime": null
+        },
+        {
+            "ntf_id": "110",
+            "sender_user_type": "Prof. Dr. Burak DURMAZ",
+            "ntf_title": "Deneme",
+            "ntf_content": "Test",
+            "ntf_send_datetime": "2023-01-30 17:05:42",
+            "ntfd_read_datetime": null
+        },
+        {
+            "ntf_id": "109",
+            "sender_user_type": "Prof. Dr. Burak DURMAZ",
+            "ntf_title": "Deneme",
+            "ntf_content": "Test",
+            "ntf_send_datetime": "2023-01-27 16:48:48",
+            "ntfd_read_datetime": null
+        },
+        {
+            "ntf_id": "108",
+            "sender_user_type": "Prof. Dr. Burak DURMAZ",
+            "ntf_title": "Saat Değişikliği",
+            "ntf_content": "Matematik dersi 14:00 dan 15:00' alınmıştır.",
+            "ntf_send_datetime": "2023-01-27 15:12:59",
+            "ntfd_read_datetime": "2023-01-31 18:05:13"
+        },
+        {
+            "ntf_id": "107",
+            "sender_user_type": "Prof. Dr. Burak DURMAZ",
+            "ntf_title": "Ders değişikliği",
+            "ntf_content": "UI\/UX dersiniz saat 17.30 da başlayacaktır.",
+            "ntf_send_datetime": "2023-01-26 15:28:42",
+            "ntfd_read_datetime": "2023-02-02 10:42:45"
+        },
+        {
+            "ntf_id": "106",
+            "sender_user_type": "Prof. Dr. Burak DURMAZ",
+            "ntf_title": "Ders saati değişikliği",
+            "ntf_content": "UI\/UX Dersiniz bugün saat 17.30 da başlayacaktır.",
+            "ntf_send_datetime": "2023-01-26 15:27:35",
+            "ntfd_read_datetime": null
+        },
+        {
+            "ntf_id": "105",
+            "sender_user_type": "Prof. Dr. Burak DURMAZ",
+            "ntf_title": "Deneme",
+            "ntf_content": "Test",
+            "ntf_send_datetime": "2023-01-26 15:05:41",
+            "ntfd_read_datetime": null
+        },
+        {
+            "ntf_id": "104",
+            "sender_user_type": "Prof. Dr. Burak DURMAZ",
+            "ntf_title": "Deneme",
+            "ntf_content": "Test",
+            "ntf_send_datetime": "2023-01-26 15:05:24",
+            "ntfd_read_datetime": "2023-01-31 18:05:11"
+        },
+        {
+            "ntf_id": "103",
+            "sender_user_type": "Prof. Dr. Burak DURMAZ",
+            "ntf_title": "Deneme",
+            "ntf_content": "Test",
+            "ntf_send_datetime": "2023-01-26 13:31:39",
+            "ntfd_read_datetime": null
+        },
+        {
+            "ntf_id": "102",
+            "sender_user_type": "Prof. Dr. Burak DURMAZ",
+            "ntf_title": "Deneme",
+            "ntf_content": "Test",
+            "ntf_send_datetime": "2023-01-26 13:20:19",
+            "ntfd_read_datetime": "2023-01-31 18:05:09"
+        },
+        {
+            "ntf_id": "101",
+            "sender_user_type": "Prof. Dr. Burak DURMAZ",
+            "ntf_title": "Deneme",
+            "ntf_content": "Test",
+            "ntf_send_datetime": "2023-01-26 13:18:59",
+            "ntfd_read_datetime": null
+        },
+        {
+            "ntf_id": "100",
+            "sender_user_type": "Prof. Dr. Burak DURMAZ",
+            "ntf_title": "Deneme",
+            "ntf_content": "Test",
+            "ntf_send_datetime": "2023-01-26 13:16:31",
+            "ntfd_read_datetime": "2023-02-01 22:32:53"
+        },
+        {
+            "ntf_id": "99",
+            "sender_user_type": "Prof. Dr. Burak DURMAZ",
+            "ntf_title": "Deneme",
+            "ntf_content": "Test",
+            "ntf_send_datetime": "2023-01-26 13:06:13",
+            "ntfd_read_datetime": "2023-01-31 18:09:01"
+        },
+        {
+            "ntf_id": "98",
+            "sender_user_type": "Prof. Dr. Burak DURMAZ",
+            "ntf_title": "Deneme",
+            "ntf_content": "Test",
+            "ntf_send_datetime": "2023-01-26 13:04:12",
+            "ntfd_read_datetime": "2023-01-31 18:08:43"
+        },
+        {
+            "ntf_id": "97",
+            "sender_user_type": "Prof. Dr. Burak DURMAZ",
+            "ntf_title": "Deneme",
+            "ntf_content": "Test",
+            "ntf_send_datetime": "2023-01-26 10:14:47",
+            "ntfd_read_datetime": "2023-01-31 17:57:18"
+        },
+        {
+            "ntf_id": "96",
+            "sender_user_type": "Prof. Dr. Burak DURMAZ",
+            "ntf_title": "Deneme",
+            "ntf_content": "Test",
+            "ntf_send_datetime": "2023-01-26 10:12:03",
+            "ntfd_read_datetime": "2023-01-31 18:05:06"
+        },
+        {
+            "ntf_id": "95",
+            "sender_user_type": "Prof. Dr. Burak DURMAZ",
+            "ntf_title": "Deneme",
+            "ntf_content": "Test",
+            "ntf_send_datetime": "2023-01-26 10:11:35",
+            "ntfd_read_datetime": "2023-01-31 17:36:26"
+        },
+        {
+            "ntf_id": "94",
+            "sender_user_type": "Prof. Dr. Burak DURMAZ",
+            "ntf_title": "Deneme",
+            "ntf_content": "Test",
+            "ntf_send_datetime": "2023-01-26 10:09:20",
+            "ntfd_read_datetime": "2023-01-31 17:56:57"
+        },
+        {
+            "ntf_id": "93",
+            "sender_user_type": "Prof. Dr. Burak DURMAZ",
+            "ntf_title": "Deneme",
+            "ntf_content": "Test",
+            "ntf_send_datetime": "2023-01-26 10:08:57",
+            "ntfd_read_datetime": "2023-01-31 17:56:52"
+        },
+        {
+            "ntf_id": "92",
+            "sender_user_type": "Prof. Dr. Burak DURMAZ",
+            "ntf_title": "günaydın",
+            "ntf_content": "Günaydın, iyi haftalar",
+            "ntf_send_datetime": "2023-01-26 10:08:06",
+            "ntfd_read_datetime": "2023-01-31 17:36:24"
+        },
+        {
+            "ntf_id": "91",
+            "sender_user_type": "SYSTEM_ADMIN",
+            "ntf_title": "Ceviz Demo Bildirim Zafer'in cihazına",
+            "ntf_content": "Ceviz Demo Bildirim Zafer'in cihazına özel",
+            "ntf_send_datetime": "2023-01-23 13:26:55",
+            "ntfd_read_datetime": "2023-01-31 17:36:22"
+        },
+        {
+            "ntf_id": "90",
+            "sender_user_type": "SYSTEM_ADMIN",
+            "ntf_title": "Ceviz Demo Bildirim Zafer'in cihazına",
+            "ntf_content": "Ceviz Demo Bildirim Zafer'in cihazına özel",
+            "ntf_send_datetime": "2023-01-23 13:24:36",
+            "ntfd_read_datetime": "2023-01-31 17:36:18"
+        },
+        {
+            "ntf_id": "81",
+            "sender_user_type": "Prof. Dr. Burak DURMAZ",
+            "ntf_title": "Deneme",
+            "ntf_content": "Test",
+            "ntf_send_datetime": "2022-12-19 18:02:37",
+            "ntfd_read_datetime": "2023-01-31 17:36:10"
+        }
+    ],
+    "error": false
+}
